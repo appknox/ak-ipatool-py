@@ -13,7 +13,7 @@ setuptools.setup(
     author='appknox',
     author_email='engineering@appknox.com',
     url='https://github.com/appknox/ak-ipatool-py',
-    description='ipatoolpy is a command line tool that allows you to search for iOS apps on the App Store and download a copy of the app package, known as an ipa file.',
+    description='Appknox forked ipatoolpy is a command line tool that allows you to search for iOS apps on the App Store and download a copy of the app package, known as an ipa file.',
     packages=['reqs'],
     install_requires=[
         'setuptools',
