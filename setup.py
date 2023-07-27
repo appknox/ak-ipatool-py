@@ -1,6 +1,6 @@
 import setuptools
 
-__VERSION__ = '0.0.3'
+__VERSION__ = '0.0.4'
 
 setuptools.setup(
     name='ak-ipatool-py',
