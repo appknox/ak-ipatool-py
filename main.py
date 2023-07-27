@@ -8,8 +8,8 @@ import zipfile
 from requests.adapters import HTTPAdapter
 from urllib3 import Retry
 
-from reqs.itunes import *
-from reqs.store import *
+from ipatool_py.itunes import *
+from ipatool_py.store import *
 import argparse
 
 import logging
